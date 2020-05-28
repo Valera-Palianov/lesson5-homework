@@ -1,0 +1,17 @@
+{
+	"name": "lesson5-neronayron",
+	"version": "0.0.1",
+	"keywords": [
+		"crtweb-neronayron",
+		"lesson5-neronayron"
+	],
+	"description": "A simple project for learning how to publish your own packages in NPM",
+	"main": "index.js",
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/Valera-Palianov/lesson5-homework"
+	},
+	"homepage": "https://github.com/Valera-Palianov/lesson5-homework",
+	"author": "Valera Palianov <valera.palianov@gmail.com>",
+	"license": "MIT"
+}
